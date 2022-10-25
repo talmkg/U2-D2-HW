@@ -1,0 +1,48 @@
+/*   EXERCISE 1 BELOW   */
+.display-4 {
+  border: 2px solid black;
+}
+
+.nav span {
+  border: 1px solid black;
+}
+
+.font-weight-bold {
+  border: 1px dotted black;
+}
+
+.blog-post:first-of-type {
+  border: 1px solid red;
+}
+/*   EXERCISE 5 BELOW   */
+.blog-post:first-of-type hr {
+  background-color: red;
+}
+
+.nav span:nth-child(2n) {
+  border: 2px solid black;
+}
+
+.list-unstyled.mb-0 [href="#"] {
+  color: rgb(247, 0, 255);
+}
+
+.blog-post:nth-child(3) p:first-of-type a {
+  background-color: rgb(0, 255, 200);
+}
+/*   EXERCISE 9 BELOW   */
+.blog-post:last-of-type li:nth-child(2) {
+  color: red;
+}
+
+.float-right {
+  color: red;
+}
+
+.btn:nth-child(2) {
+  color: red;
+}
+
+.text-center a:last-of-type {
+  color: red;
+}
